@@ -1,5 +1,5 @@
 server.port: 6096
-spring.datasource.url: jdbc:mysql://59.110.235.199:3306/claySystem?characterEncoding=utf-8
+spring.datasource.url: jdbc:mysql://59.110.235.199:3306/bonusSystem?characterEncoding=utf-8
 spring.datasource.username: root
 spring.datasource.password: hdidcNO.F-2
 spring.datasource.driver-class-name: com.mysql.jdbc.Driver
